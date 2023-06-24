@@ -4,3 +4,22 @@ IAM helps to ensure that the right people have access* to the right resources* u
 AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. 
 With IAM, you can centrally manage permissions that control which AWS resources users can access. 
 You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources.
+                  HOW TO CREATE IAM USER?
+
+login to Amazone console
+search IAM on Search bar.
+click on Users.
+click on Add users on right hand top sight.
+under username give any name.
+check Provide user access to the AWS Management Console - optional.
+check I want to create an IAM user.
+Custom password give any password as per guidline.
+click on next.
+check on Attach policies directly.
+UNDER PERMISSION POLICIES:-  select as per your requirement.
+click on next.
+click on create user.
+NOW THE USER DETAILS IS SHOWN IN THE DASHBOARD.
+you can copy the references id snd password.
+open new tab on browser login to aws as a new user.
+SO our new user is created and we attached the policies also.
